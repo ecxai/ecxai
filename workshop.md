@@ -1,9 +1,9 @@
 # Workshop on Evolutionary Computing and Explainable AI
 ## Description
 
-Description of the ECXAI workshop here in full detail
+Full details of the ECXAI workshop and schedule will be made avaialable here at a future date.
 
-Call for paper details here
+## Call for papers
 
 From an application perspective, important questions have arisen, for which XAI may be crucial: Is the system biased? Has the problem been formulated correctly? Is the solution trustworthy and fair? The goal of XAI and related research is to develop methods to interrogate AI processes with the aim of answering these questions. This can support decision makers while also building trust in AI decision-support through more readily understandable explanations.
 We seek contributions on a range of topics related to this theme, including but not limited to:
@@ -18,14 +18,17 @@ We seek contributions on a range of topics related to this theme, including but 
 - Legal and ethical considerations
 - Case studies / applications of EC & XAI technologies
 
-Info on reviewing - Submissions will be reviewed by X etc.
+Information on the review proceedure will be added when available.
 
-Info on publishing details and where to find them.
+Information on the publishing of papers will be added when available.
 
 ## Important dates
-TBD
+To be announced.
 
 ## Organisers (alphabetical order)
-- Person 1
-- Person 2
-- Etc
+- Alexander Brownlee
+- Stefano Cagnoni
+- Giovanni Iacca
+- Bacardit Jaume
+- John McCall
+- David Walker
