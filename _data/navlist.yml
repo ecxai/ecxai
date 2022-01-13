@@ -1,7 +1,7 @@
 docs:
 
 - pagetitle: About
-  url: /
+  url: /ecxai/
 
 #- pagetitle: Papers
 #  url: /papers
@@ -13,7 +13,7 @@ docs:
 #  url: /tutorials
 
 - pagetitle: Workshop
-  url: /workshop
+  url:  /ecxai/workshop
 
 #- pagetitle: Libraries
 #  url: /libraries  
