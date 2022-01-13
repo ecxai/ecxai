@@ -1,4 +1,4 @@
-# Workshop on Benchmarks for Quality-Diversity algorithms
+# Workshop on Evolutionary Computing and Explainable AI
 ## Description
 
 Description of the ECXAI workshop here in full detail
