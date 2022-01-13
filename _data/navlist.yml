@@ -18,5 +18,5 @@ docs:
 - pagetitle: Organisers
   url:  /ecxai/organisers
 
-- pagetitle: Libraries
-  url: /libraries  
+#- pagetitle: Libraries
+#  url: /libraries  
