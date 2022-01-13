@@ -16,7 +16,7 @@ docs:
   url:  /ecxai/workshop
 
 - pagetitle: Organisers
-url:  /ecxai/organisers
+  url:  /ecxai/organisers
 
-#- pagetitle: Libraries
-#  url: /libraries  
+- pagetitle: Libraries
+  url: /libraries  
