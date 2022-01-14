@@ -1,6 +1,6 @@
 # Links
-Links to research groups and tools will appear here.
+Links to other relevant resources will appear here.
 
-## Tools
+A list of resources related to XAI in general.
 https://github.com/pbiecek/xai_resources
 
