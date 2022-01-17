@@ -25,10 +25,18 @@ Information on the publishing of papers will be added when available.
 ## Important dates
 To be announced.
 
-## Organisers (alphabetical order)
+## Organisers
 - Alexander Brownlee
 - Stefano Cagnoni
 - Giovanni Iacca
 - Bacardit Jaume
 - John McCall
 - David Walker
+
+## Technical Programme Committee
+- Mauro Castelli
+- Matthew Craven
+- Alberto Franzin
+- Ed Keedwell
+- Eric Medvet
+- Sean Walton
