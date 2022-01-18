@@ -37,6 +37,8 @@ To be announced.
 - Mauro Castelli
 - Matthew Craven
 - Alberto Franzin
+- Julie Jacques
 - Ed Keedwell
 - Eric Medvet
+- Fabrício Olivetti de França
 - Sean Walton
