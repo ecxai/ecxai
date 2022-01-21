@@ -41,4 +41,5 @@ To be announced.
 - Ed Keedwell
 - Eric Medvet
 - Fabrício Olivetti de França
+- Marco Virgolin
 - Sean Walton
