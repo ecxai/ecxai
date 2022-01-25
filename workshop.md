@@ -39,6 +39,7 @@ To be announced.
 - Alberto Franzin
 - Julie Jacques
 - Ed Keedwell
+- Benjamin Lacroix
 - Eric Medvet
 - Fabrício Olivetti de França
 - Roman Šenkeřík
