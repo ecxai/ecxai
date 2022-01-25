@@ -42,6 +42,7 @@ To be announced.
 - Eric Medvet
 - Fabrício Olivetti de França
 - Roman Šenkeřík
+- Ryan Urbanowicz
 - Marco Virgolin
 - Sean Walton
 - Ciprian Zavoianu
