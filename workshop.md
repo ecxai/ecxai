@@ -18,9 +18,9 @@ We seek contributions on a range of topics related to this theme, including but 
 - Legal and ethical considerations
 - Case studies / applications of EC & XAI technologies
 
-Information on the review proceedure will be added when available.
+Papers will be double blind reviewed by members of our technical programme committee.
 
-Information on the publishing of papers will be added when available.
+Authors can submit short contributions including position papers of up to 4 pages and regular contributions of up to 8 pages following in each category the GECCO paper formatting guidelines. Software demonstrations will also be welcome. 
 
 ## Important dates
  - Submission opening: February 11, 2022
