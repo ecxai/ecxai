@@ -23,7 +23,11 @@ Information on the review proceedure will be added when available.
 Information on the publishing of papers will be added when available.
 
 ## Important dates
-To be announced.
+ - Submission opening: February 11, 2022
+ - Submission deadline: April 11, 2022
+ - Notification: April 25, 2022
+ - Camera-ready: May 2, 2022
+ - Presenter mandatory registration: May 2, 2022
 
 ## Organisers
 - Alexander Brownlee
