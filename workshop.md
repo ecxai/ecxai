@@ -1,7 +1,7 @@
 # Workshop on Evolutionary Computing and Explainable AI
 ## Description
 
-Full details of the ECXAI workshop and schedule will be made avaialable here at a future date.
+Full details of the ECXAI workshop and schedule will be made available here at a future date.
 
 ## Call for papers
 
