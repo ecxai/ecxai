@@ -4,8 +4,12 @@
 Full details of the ECXAI workshop and schedule will be made available here at a future date.
 
 ## Call for papers
+Explainable artificial intelligence has gained significant traction in the machine learning community in recent years because of the need to generate “explanations” of how these typically black-box tools operate that are accessible to a wide range of users. Nature-inspired optimisation techniques are also often black box in nature, and the attention of the explainability community has begun to consider explaining their operation too. Many of the processes that drive nature-inspired optimisers are stochastic and complex, presenting a barrier to understanding how solutions to a given optimisation problem have been generated.
+
+Explainable optimisation can address some of the questions that arise during the use of an optimiser: Is the system biased? Has the problem been formulated correctly? Is the solution trustworthy and fair? By providing mechanisms that enable a decision maker to interrogate an optimiser and answer these questions trust is built with the system. On the other hand, many approaches to XAI in machine learning are based on search algorithms that interrogate or refine the model to be explained, and have the potential to draw on the expertise of the EC community. Furthermore, many of the broader questions (such as what kinds of explanation are most appealing or useful to end users) are faced by XAI researchers in general.
 
 From an application perspective, important questions have arisen, for which XAI may be crucial: Is the system biased? Has the problem been formulated correctly? Is the solution trustworthy and fair? The goal of XAI and related research is to develop methods to interrogate AI processes with the aim of answering these questions. This can support decision makers while also building trust in AI decision-support through more readily understandable explanations.
+
 We seek contributions on a range of topics related to this theme, including but not limited to:
 - Interpretability vs explainability in EC and their quantification
 - Landscape analysis and XAI
@@ -29,13 +33,13 @@ Authors can submit short contributions including position papers of up to 4 page
  - Camera-ready: May 2, 2022
  - Presenter mandatory registration: May 2, 2022
 
-## Organisers
-- Alexander Brownlee
-- Stefano Cagnoni
-- Giovanni Iacca
-- Bacardit Jaume
-- John McCall
-- David Walker
+## Organisers (in alphabetical order)
+ - Jaume Bacardit, Newcastle University, UK, jaume.bacardit@newcastle.ac.uk
+ - Alexander Brownlee, University of Stirling, UK, alexander.brownlee@stir.ac.uk
+ - Stefano Cagnoni, University of Parma, Italy, cagnoni@ce.unipr.it
+ - Giovanni Iacca, University of Trento, Italy, giovanni.iacca@unitn.it
+ - John McCall, Robert Gordon University, UK, j.mccall@rgu.ac.uk
+ - David Walker, University of Plymouth, UK, david.walker@plymouth.ac.uk
 
 ## Technical Programme Committee
 - Mauro Castelli
