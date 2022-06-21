@@ -4,5 +4,8 @@
 
 Recent growth in the adoption of black-box solutions including EC-based methods into domains such as medical diagnosis, manufacturing and transport & logistics has led to greater attention being given to the generation of explanations and their accessibility to end-users. This increased attention has helped create a fertile environment for the application of XAI techniques in the EC domain for both end-user and researcher focused explanation generation. Furthermore, many approaches to XAI in machine learning are based on search algorithms (e.g., Local Interpretable Model-Agnostic Explanations / LIME) that have the potential to draw on the expertise of the EC community; and many of the broader questions (such as what kinds of explanation are most appealing or useful to end users) are faced by XAI researchers in general.
 
+# ACM TELO Special Issue
+A special issue of the ACM TELO journal for explainability and evolutionary computation has been announced. Details [here](https://dl.acm.org/pb-assets/static_journal_pages/telo/pdf/TELO-SI-Explainable-AI-1654112285437.pdf).
+
 # Future Content
 - Further links to Research Groups, Papers, Software Libraries and Additional Information will be added at a later date.
