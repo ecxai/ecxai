@@ -1,7 +1,34 @@
 # Workshop on Evolutionary Computing and Explainable AI
 ## Description
 
-Full details of the ECXAI workshop and schedule will be made available here at a future date.
+The specific day and timing of the ECXAI workshop and schedule will be made available here once confirmed.
+
+## Programme
+
+### Slot 1 (Intro, invited talk & XAI4EC papers)
+
+Paper 1 and introduction from organizers: Jaume Bacardit, Alexander E.I. Brownlee, Giovanni Iacca, John McCall, Stefano Cagnoni, David Walker. "The intersection of Evolutionary Computation and Explainable AI" [15min + 5min Q&A] [onsite]
+
+Invited talk: Will N. Browne. "Inherent explainability in AI via EC". [30m+10min Q&A] [online]
+
+Paper 2: Manjinder Singh, Alexander Brownlee, David Cairns. "Towards Explainable Metaheuristic: Mining Surrogate Fitness Models for Importance of Variables" [15min + 5min Q&A] [online]
+
+Paper 3: Mathew Walter, David Walker, Matthew Craven. "An Explainable Visualisation of the Evolutionary Search Process" [15min + 5min Q&A] [onsite]
+
+Open Discussion [10 min] [onsite/online]
+
+### Slot 2 (EC4XAI papers & discussion)
+
+Paper 4: Martina Saletta, Claudio Ferretti. "Towards the Evolutionary Assessment of Neural Transformers Trained on Source Code" [15min + 5min Q&A] [onsite]
+
+Paper 5: Leonardo Lucio Custode, Giovanni Iacca. "Interpretable AI for policy-making in pandemics" [15min + 5min Q&A] [onsite]
+
+Paper 6: Hormoz Shahrzad, Babak Hodjat, Risto Miikkulainen. "Evolving Explainable Rule Sets" [15min + 5min Q&A]
+
+Paper 7: Hayden Andersen, Andrew Lensen, Will N. Browne. "Improving the Search of Learning Classifier Systems Through Interpretable Feature Clustering" [15min + 5min Q&A] [online]
+
+Open Discussion [30 min] [onsite/online]
+
 
 ## Call for papers
 Explainable artificial intelligence has gained significant traction in the machine learning community in recent years because of the need to generate “explanations” of how these typically black-box tools operate that are accessible to a wide range of users. Nature-inspired optimisation techniques are also often black box in nature, and the attention of the explainability community has begun to consider explaining their operation too. Many of the processes that drive nature-inspired optimisers are stochastic and complex, presenting a barrier to understanding how solutions to a given optimisation problem have been generated.
@@ -27,11 +54,12 @@ Papers will be double blind reviewed by members of our technical programme commi
 Authors can submit short contributions including position papers of up to 4 pages and regular contributions of up to 8 pages following in each category the GECCO paper formatting guidelines. Software demonstrations will also be welcome. 
 
 ## Important dates
- - Submission opening: February 11, 2022
- - Submission deadline: April 11, 2022
- - Notification: April 25, 2022
- - Camera-ready: May 2, 2022
- - Presenter mandatory registration: May 2, 2022
+ - Submission opening: ~~February 11, 2022~~
+ - Submission deadline: ~~April 11, 2022~~
+ - Notification: ~~April 25, 2022~~
+ - Camera-ready: ~~May 2, 2022~~
+ - Presenter mandatory registration: ~~May 2, 2022~~
+ - Workshop: TBC
 
 ## Submission
 Workshop papers must be submitted using the GECCO submission system (https://ssl.linklings.net/conferences/gecco/). After login, the authors need to select the "Workshop Paper" submission form. In the form, the authors must select the workshop they are submitting to. To see a sample of the "Workshop Paper" submission form, go to GECCO's submission system and select "Sample Submission Forms". Submitted papers must not exceed 8 pages (excluding references) and are required to be in compliance with the GECCO 2022 Papers Submission Instructions (https://gecco-2022.sigevo.org/Paper-Submission-Instructions). It is recommended to use the same templates as the papers submitted to the main tracks.  Each paper submitted to this workshop will be rigorously reviewed in a double-blind review process. In other words, authors should not know who the reviewers of their work are and reviewers should not know who the authors are. To this end, the following information is very important: Submitted papers should be ANONYMIZED. This means that they should NOT contain any element that may reveal the identity of their authors. This includes author names, affiliations, and acknowledgments. Moreover, any references to any of the author's own work should be made as if the work belonged to someone else. All accepted papers will be presented at the ECXAI workshop and appear in the GECCO 2022 Conference Companion Proceedings. By submitting a paper, the author(s) agree that, if their paper is accepted, they will:
