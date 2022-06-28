@@ -1,33 +1,33 @@
 # Workshop on Evolutionary Computing and Explainable AI
 ## Description
 
-The specific day and timing of the ECXAI workshop and schedule will be made available here once confirmed.
+The workshop will span two sessions (10:50–12:40, 13:40–15:30) on the first day of the GECCO conference, Saturday, 9 July 2022.
 
 ## Programme
 
 ### Slot 1 (Intro, invited talk & XAI4EC papers)
 
-Paper 1 and introduction from organizers: Jaume Bacardit, Alexander E.I. Brownlee, Giovanni Iacca, John McCall, Stefano Cagnoni, David Walker. "The intersection of Evolutionary Computation and Explainable AI" [15min + 5min Q&A] [onsite]
+10:50. Paper 1 and introduction from organizers: Jaume Bacardit, Alexander E.I. Brownlee, Giovanni Iacca, John McCall, Stefano Cagnoni, David Walker. "The intersection of Evolutionary Computation and Explainable AI" [15min + 5min Q&A] [onsite]
 
-Invited talk: Will N. Browne. "Inherent explainability in AI via EC". [30m+10min Q&A] [online]
+11:10. Invited talk: Will N. Browne. "Inherent explainability in AI via EC". [30m+10min Q&A] [online]
 
-Paper 2: Manjinder Singh, Alexander Brownlee, David Cairns. "Towards Explainable Metaheuristic: Mining Surrogate Fitness Models for Importance of Variables" [15min + 5min Q&A] [online]
+11.50. Paper 2: Manjinder Singh, Alexander Brownlee, David Cairns. "Towards Explainable Metaheuristic: Mining Surrogate Fitness Models for Importance of Variables" [15min + 5min Q&A] [online]
 
-Paper 3: Mathew Walter, David Walker, Matthew Craven. "An Explainable Visualisation of the Evolutionary Search Process" [15min + 5min Q&A] [onsite]
+12.12. Paper 3: Mathew Walter, David Walker, Matthew Craven. "An Explainable Visualisation of the Evolutionary Search Process" [15min + 5min Q&A] [onsite]
 
-Open Discussion [10 min] [onsite/online]
+12.30. Open Discussion [10 min] [onsite/online]
 
 ### Slot 2 (EC4XAI papers & discussion)
 
-Paper 4: Martina Saletta, Claudio Ferretti. "Towards the Evolutionary Assessment of Neural Transformers Trained on Source Code" [15min + 5min Q&A] [onsite]
+13.40. Paper 4: Martina Saletta, Claudio Ferretti. "Towards the Evolutionary Assessment of Neural Transformers Trained on Source Code" [15min + 5min Q&A] [onsite]
 
-Paper 5: Leonardo Lucio Custode, Giovanni Iacca. "Interpretable AI for policy-making in pandemics" [15min + 5min Q&A] [onsite]
+14.00. Paper 5: Leonardo Lucio Custode, Giovanni Iacca. "Interpretable AI for policy-making in pandemics" [15min + 5min Q&A] [onsite]
 
-Paper 6: Hormoz Shahrzad, Babak Hodjat, Risto Miikkulainen. "Evolving Explainable Rule Sets" [15min + 5min Q&A]
+14.20. Paper 6: Hormoz Shahrzad, Babak Hodjat, Risto Miikkulainen. "Evolving Explainable Rule Sets" [15min + 5min Q&A]
 
-Paper 7: Hayden Andersen, Andrew Lensen, Will N. Browne. "Improving the Search of Learning Classifier Systems Through Interpretable Feature Clustering" [15min + 5min Q&A] [online]
+14.40. Paper 7: Hayden Andersen, Andrew Lensen, Will N. Browne. "Improving the Search of Learning Classifier Systems Through Interpretable Feature Clustering" [15min + 5min Q&A] [online]
 
-Open Discussion [30 min] [onsite/online]
+15.00. Open Discussion [30 min] [onsite/online]
 
 
 ## Call for papers
