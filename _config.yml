@@ -1,6 +1,6 @@
 theme: jekyll-theme-cayman
-title: Evolutionary Computing Explainable Artificial Intelligence GECCO 2022 Workshop
-description: This page is for presenting information on the GECCO 2022 ECXAI Workshop. More details to come.
+title: Evolutionary Computing and Explainable Artificial Intelligence
+description: This page is for presenting information on the intersection of EC and XAI, including workshops, special issues, people, and resources.
 plugins:
   - jekyll-relative-links
 relative_links:
