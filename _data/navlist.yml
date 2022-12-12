@@ -13,8 +13,11 @@ docs:
 #  url: /tutorials
 #
 
-- pagetitle: Workshop
-  url:  /ecxai/workshop
+- pagetitle: Workshop 2022
+  url:  /ecxai/workshop-2022
+
+- pagetitle: Workshop 2023
+  url:  /ecxai/workshop-2023
 
 - pagetitle: TELO Special Issue
   url:  /ecxai/special-issue
