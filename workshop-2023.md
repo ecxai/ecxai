@@ -27,12 +27,12 @@ Papers will be double blind reviewed by members of our technical programme commi
 Authors can submit short contributions including position papers of up to 4 pages and regular contributions of up to 8 pages following in each category the GECCO paper formatting guidelines. Software demonstrations will also be welcome. 
 
 ## Important dates
- - Submission opening: TBC
- - Submission deadline: TBC
- - Notification: TBC
- - Camera-ready: TBC
- - Presenter mandatory registration: TBC
- - Workshop: TBC
+ - Submission opening: 13 February 2023
+ - Submission deadline: 14 April 2023
+ - Notification: 3 May 2023
+ - Camera-ready: 10 May 2023
+ - Presenter mandatory registration: 10 May 2023
+ - Workshop: TBC - either 15 or 16 July 2023
 
 ## Submission
 Workshop papers must be submitted using the [GECCO submission system](https://ssl.linklings.net/conferences/gecco/). After login, the authors need to select the "Workshop Paper" submission form. In the form, the authors must select the workshop they are submitting to. To see a sample of the "Workshop Paper" submission form, go to GECCO's submission system and select "Sample Submission Forms". Submitted papers must not exceed 8 pages (excluding references) and are required to be in compliance with the GECCO 2023 Papers Submission [Instructions](https://gecco-2023.sigevo.org/Paper-Submission-Instructions). It is recommended to use the same templates as the papers submitted to the main tracks.  Each paper submitted to this workshop will be rigorously reviewed in a double-blind review process. In other words, authors should not know who the reviewers of their work are and reviewers should not know who the authors are. To this end, the following information is very important: Submitted papers should be ANONYMIZED. This means that they should NOT contain any element that may reveal the identity of their authors. This includes author names, affiliations, and acknowledgments. Moreover, any references to any of the author's own work should be made as if the work belonged to someone else. All accepted papers will be presented at the ECXAI workshop and appear in the GECCO 2023 Conference Companion Proceedings. By submitting a paper, the author(s) agree that, if their paper is accepted, they will:
