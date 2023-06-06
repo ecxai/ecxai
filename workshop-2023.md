@@ -1,7 +1,29 @@
 # Workshop on Evolutionary Computing and Explainable AI 2023
 ## Description
 
-The workshop will be held at the GECCO conference in Lisbon, Portugal, 15-19 July 2023.
+The workshop will be held at the GECCO conference in Lisbon, Portugal, 15-19 July 2023. Precise timing still to be confirmed.
+
+## Programme
+
+Welcome & Introduction by the workshop organizers (5 min)
+
+Invited Talk: Mengjie Zhang. Genetic Programming for Explainable Artificial Intelligence (30min + 10min Q+A)
+
+Explaining a Staff Rostering Genetic Algorithm using Sensitivity Analysis and Trajectory Analysis
+Martin Fyvie, John A.W. McCall, Lee A. Christie, Alexander E.I. Brownlee
+(15min + 5min Q+A)
+
+From Fitness Landscapes to Explainable AI and Back
+Sarah L. Thomson, Jason Adair, Alexander E.I. Brownlee, Daan van den Berg
+(15min + 5min Q+A)
+
+Towards Principled Synthetic Benchmarks for Explainable Rule Set Learning Algorithms
+David Pätzel, Michael Heider, Jörg Hähner
+(15min + 5min Q+A)
+
+Concluding remarks (5 min)
+
+
 
 ## Call for papers
 Explainable artificial intelligence has gained significant traction in the machine learning community in recent years because of the need to generate “explanations” of how these typically black-box tools operate that are accessible to a wide range of users. Nature-inspired optimisation techniques are also often black box in nature, and the attention of the explainability community has begun to consider explaining their operation too. Many of the processes that drive nature-inspired optimisers are stochastic and complex, presenting a barrier to understanding how solutions to a given optimisation problem have been generated.
