@@ -1,7 +1,7 @@
 # Workshop on Evolutionary Computing and Explainable AI 2023
 ## Description
 
-The workshop will be held at the GECCO conference in Lisbon, Portugal, 15-19 July 2023. Precise timing still to be confirmed.
+The workshop will be held 2-3:50pm on 16 July 2023, at the GECCO conference in Lisbon, Portugal, 15-19 July 2023.
 
 ## Programme
 
