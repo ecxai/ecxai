@@ -41,4 +41,3 @@ Evolving Explainable Rule Sets. Hormoz Shahrzad, Babak Hodjat, Risto Miikkulaine
 Improving the Search of Learning Classifier Systems Through Interpretable Feature Clustering. Hayden Andersen, Andrew Lensen, Will N. Browne. ECXAI workshop @ GECCO 2022
 [https://doi.org/10.1145/3520304.3534027]
 
-[A list of resources related to XAI in general](https://github.com/pbiecek/xai_resources)
