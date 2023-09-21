@@ -1,6 +1,7 @@
 # Papers
 **A (currently only sorted by date) list of papers relevant to EC and XAI. Please send suggestions for papers relevant to both EC and XAI to alexander dot brownlee at stir dot ac dot uk.**
 
+## 2023
 Evolutionary Approaches to Explainable Machine Learning. Ryan Zhou and Ting Hu. [https://arxiv.org/abs/2306.14786]
 
 Genetic Algorithm with Linkage Learning. Renato Tinós, Michal Przewozniczek, Darrell Whitley, Francisco Chicano. GECCO 2023.
@@ -24,6 +25,8 @@ Towards Principled Synthetic Benchmarks for Explainable Rule Set Learning Algori
 
 Evolutionary Computation and Explainable AI: a year in review. Bacardit, J., Brownlee, A.E.I., Cagnoni, S., Iacca, G., McCall, J.A.W., Walker, D. Late-breaking Abstracts, EvoStar Conference 2023
 
+## 2022
+
 The intersection of Evolutionary Computation and Explainable AI. Jaume Bacardit, Alexander E.I. Brownlee, Giovanni Iacca, John McCall, Stefano Cagnoni, David Walker. ECXAI workshop @ GECCO 2022
 Position paper presented at ECXAI workshop @ GECCO 2022 by the workshop organisers.
 [https://doi.org/10.1145/3520304.3533974]
@@ -45,6 +48,8 @@ Evolving Explainable Rule Sets. Hormoz Shahrzad, Babak Hodjat, Risto Miikkulaine
 
 Improving the Search of Learning Classifier Systems Through Interpretable Feature Clustering. Hayden Andersen, Andrew Lensen, Will N. Browne. ECXAI workshop @ GECCO 2022
 [https://doi.org/10.1145/3520304.3534027]
+
+## 2020
 
 Effective Reinforcement Learning through Evolutionary Surrogate-Assisted Prescription. Olivier Francon, Santiago Gonzalez, Babak Hodjat, Elliot Meyerson, Risto Miikkulainen, Xin Qiu, and Hormoz Shahrzad. GECCO 2020.
 [https://doi.org/10.1145/3377930.3389842]
