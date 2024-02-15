@@ -22,8 +22,8 @@ docs:
 - pagetitle: TELO Special Issue
   url:  /ecxai/special-issue
 
-- pagetitle: Organisers
-  url:  /ecxai/organisers
+#- pagetitle: Organisers
+#  url:  /ecxai/organisers
 
 - pagetitle: Links
   url:  /ecxai/links
