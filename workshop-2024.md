@@ -88,6 +88,6 @@ Professor McCall has served as a member of the IEEE Evolutionary Computing Techn
 
 
 ### David Walker
-<david.walker@plymouth.ac.uk>
+<D.J.Walker2@exeter.ac.uk>
 
 David Walker is a Senior Lecturer in Computer Science at the University of Exeter. He obtained a PhD in Computer Science in 2013 for work on visualising solution sets in many-objective optimisation. His research focuses on developing new approaches to solving hard optimisation problems with Evolutionary Algorithms (EAs), as well as identifying ways in which the use of Evolutionary Computation can be expanded within industry, and he has published journal papers in all of these areas. His recent work considers the visualisation of algorithm operation, providing a mechanism for visualising algorithm performance to simplify the selection of EA parameters. While working as a postdoctoral research associate at the University of Exeter his work involved the development of hyper-heuristics and investigating the use of interactive EAs in the water industry.
