@@ -3,6 +3,8 @@
 
 The workshop will be held at the GECCO conference in Melbourne, Australia, 14-18 July 2024. Precise timing is to be confirmed.
 
+**note extended deadline - submissions now accepted until 12 April 2024**
+
 ## Call for papers
 Explainable artificial intelligence (XAI) has gained significant traction in the machine learning community in recent years because of the need to generate “explanations” of how these typically black-box tools operate that are accessible to a wide range of users. From an application perspective, important questions arise, for which XAI may be crucial: Is the system biased? Has the problem been formulated correctly? Is the solution trustworthy and fair? The goal of XAI and related research is to develop methods to interrogate AI processes with the aim of answering these questions. This can support decision makers while also building trust in AI decision-support through more readily understandable explanations.
 
@@ -28,7 +30,7 @@ Authors can submit short contributions including position papers of up to 4 page
 
 ## Important dates
  - Submission opening: 12 February 2024
- - Submission deadline: 8 April 2024
+ - Submission deadline: ~~8 April 2024~~ 12 April 2024 
  - Notification: 3 May 2024
  - Camera-ready: 10 May 2024
  - Presenter mandatory registration: TBC
