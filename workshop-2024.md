@@ -48,9 +48,11 @@ As a published ACM author, you and your co-authors are subject to all [ACM Publi
 ## Technical Programme Committee
 - Mauro Castelli
 - Matthew Craven
+- Leonardo Lucio Custode
 - Alberto Franzin
 - Julie Jacques
 - Ed Keedwell
+- Umair Khan
 - Benjamin Lacroix
 - Eric Medvet
 - Fabrício Olivetti de França
