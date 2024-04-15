@@ -55,6 +55,7 @@ As a published ACM author, you and your co-authors are subject to all [ACM Publi
 - Umair Khan
 - Benjamin Lacroix
 - Eric Medvet
+- Giorgia Nadizar
 - Fabrício Olivetti de França
 - Roman Šenkeřík
 - Ryan Urbanowicz
