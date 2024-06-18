@@ -1,27 +1,42 @@
 # Workshop on Evolutionary Computing and Explainable AI 2024
 ## Description
 
-The workshop will be held at the GECCO conference in Melbourne, Australia, 14-18 July 2024. Precise timing is to be confirmed.
+The workshop will be held on 14 July 2024 at the GECCO conference in Melbourne, Australia. GECCO runs 14-18 July.
 
-## Programme
-TBC
+## Draft Programme
+(times are local to Melbourne)
 
-## Accepted papers
-(running order still to be confirmed!)
+### Session 1
+10:40 Welcome and Opening
 
-Explaining instances in the health domain based on the exploration of a dataset's hardness embedding
+10:50 Keynote: Ting Hu "Evolutionary computation and explainable AI: A roadmap to transparent intelligent systems" (abstract below)
+
+11:40 Explaining evolutionary feature selection via local optima networks _Jason Adair, Sarah L. Thomson, Alexander E.I. Brownlee_
+
+12:05 A User-Guided Generation Framework for Personalized Music Synthesis using Interactive Evolutionary Computation _Yanan Wang, Yan Pei, Zerui Ma, Jianqiang Li_  (jointly hosted with iGECCO workshop)
+
+_Break for lunch_
+
+### Session 2
+
+14:00 Explaining instances in the health domain based on the exploration of a dataset's hardness embedding
 _Maria Gabriela Valeriano, João Luiz Junho Pereira, Carlos Roberto Veiga Kiffer, Ana Carolina Lorena_
 
-Drawing Attributions From Evolved Counterfactuals
+14:25 Drawing Attributions From Evolved Counterfactuals
 _Jan Jakubik, Halina Kwaśnicka_
 
-Explaining Session-based Recommendations using Grammatical Evolution
+14:50 Explaining Session-based Recommendations using Grammatical Evolution
 _Piotr Lipinski, Klaudia Balcer_
 
-Explaining evolutionary feature selection via local optima networks
-_Jason Adair, Sarah L. Thomson, Alexander E.I. Brownlee_
+15:50 Panel discussion and concluding remarks
 
 
+
+## Keynote
+This year's keynote will be given by [Ting Hu](https://www.cs.queensu.ca/people/Ting/Hu), Associate Professor, Queen's University, Canada.
+
+**Evolutionary computation and explainable AI: A roadmap to transparent intelligent systems**
+As machine learning models find their way into high-stakes domains such as medicine, job hiring, and criminal justice, concerns about fairness, transparency, and accountability have rightfully emerged. In response, there is a growing need not only to create highly accurate prediction models but also to comprehend and elucidate the inner workings of AI systems. In this talk, we will delve into the landscape of explainable AI (XAI) and related topics, including explainability and interpretability. We will discuss how techniques can be developed to make AI models more understandable. We then focus on how EC can be used in XAI, and review some XAI approaches which incorporate EC techniques. Additionally, we discuss the application of XAI principles within EC itself, examining how these principles can shed some light on the behavior and outcomes of EC algorithms in general, on the (automatic) configuration of these algorithms, and on the underlying problem landscapes that these algorithms optimize. Finally, we discuss some open challenges in XAI and opportunities for future research in this field using EC.  
 
 
 ## Call for papers
