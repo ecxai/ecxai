@@ -3,7 +3,7 @@
 
 The workshop will be held on 14 July 2024 at the GECCO conference in Melbourne, Australia. GECCO runs 14-18 July.
 
-## Draft Programme
+## Programme
 (times are local to Melbourne)
 
 ### Session 1
