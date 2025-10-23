@@ -1,7 +1,40 @@
 # Workshop on Evolutionary Computing and Explainable AI 2025
 ## Description
 
-The workshop will be held on 14 or 15 July 2025 at the GECCO conference in Malaga, Spain. GECCO runs 14-18 July. It will be both on-site and streamed online.
+The workshop will be held over two sessions on 14-15 July 2025 at the GECCO conference in Malaga, Spain. GECCO runs 14-18 July. It will be both on-site and streamed online. This year, the sessions are joint with the Evolutionary Computation and Decision Making workshop: ECDM talks are tagged in the schedule below.
+
+## Programme
+(times local to Malaga)
+
+### Session 1 (14 July)
+
+09:30 Welcome and Opening
+
+09:35 (ECDM) Urban Transport Decision Making: Improving Traffic Prediction with Symbolic Regression, Transfer Learning, and Deep Learning *Alina Patelli, John Rego Hamilton, Aniko Ekart*
+
+09:50 (ECDM) An Introduction to Preference-Based and Interactive EMO Algorithms *Mariano Luque*
+
+10:20 Interactive Evolutionary Optimization of Visual Explainable AI through Gestalt Principles with Human Feedback *Doina Bucur, Sara Miotto, Leonardo Lucio Custode, Chiara Camilla Rambaldi Migliore, Giovanni Iacca*
+
+10:40 Interpreting Machine Learning Pipelines Produced by Evolutionary AutoML for Biochemical Property Prediction *Alex G. C. de Sa, Gisela Lobo Pappa, Alex A. Freitas, David B. Ascher*
+
+11:00 Session Closing
+
+
+### Session 2 (15 July)
+
+11:40 Welcome and Opening
+
+11:45 A Step towards Interpretable Multimodal AI Models with MultiFIX *Mafalda Malafaia, Thalea Schlender, Tanja Alderliesten, Peter A.N. Bosman*
+    
+12:05 A Better Multi-Objective GP-GOMEA – But do we Need it? *Joe Harrison, Tanja Alderliesten, Peter A.N. Bosman*
+    
+12:25 Evaluating a Novel Explainability Method for Metaheuristics via a User Study *GianCarlo Antonino Pasquale Ignazio Catalano, Alexander Brownlee, David Cairns, John McCall, Russell Ainslie*
+
+12:45 Local Optima Networks (LONs) and Search Trajectory Networks (STNs) for Noisy Combinatorial Problems} *John Payne, Aishwaryaprajna, David J. Walker, Edward Keedwell*
+
+13:05 Open Discussion
+
 
 ## Call for papers
 Explainable artificial intelligence (XAI) has gained significant traction in the machine learning community in recent years because of the need to generate “explanations” of how these typically black-box tools operate that are accessible to a wide range of users. From an application perspective, important questions arise, for which XAI may be crucial: Is the system biased? Has the problem been formulated correctly? Is the solution trustworthy and fair? The goal of XAI and related research is to develop methods to interrogate AI processes with the aim of answering these questions. This can support decision makers while also building trust in AI decision-support through more readily understandable explanations.
@@ -32,7 +65,7 @@ Authors can submit short contributions including position papers of up to 4 page
  - Notification: April 28, 2025
  - Camera-ready: May 5, 2025
  - Author's mandatory registration: May 8, 2025
- - Workshop: TBC - either 14 or 15 July 2025
+ - Workshop: 14-15 July 2025
  
 ## Submission
 Workshop papers must be submitted using the [GECCO submission system](https://ssl.linklings.net/conferences/gecco/). After login, the authors need to select the "Workshop Paper" submission form. In the form, the authors must select the workshop they are submitting to. To see a sample of the "Workshop Paper" submission form, go to GECCO's submission system and select "Sample Submission Forms". Submitted papers must not exceed 8 pages (excluding references) and are required to be in compliance with the GECCO 2024 Papers Submission [Instructions](https://gecco-2024.sigevo.org/Paper-Submission-Instructions). It is recommended to use the same templates as the papers submitted to the main tracks.  Each paper submitted to this workshop will be rigorously reviewed in a double-blind review process. In other words, authors should not know who the reviewers of their work are and reviewers should not know who the authors are. To this end, the following information is very important: Submitted papers should be ANONYMIZED. This means that they should NOT contain any element that may reveal the identity of their authors. This includes author names, affiliations, and acknowledgments. Moreover, any references to any of the author's own work should be made as if the work belonged to someone else. All accepted papers will be presented at the ECXAI workshop and appear in the GECCO 2024 Conference Companion Proceedings. By submitting a paper, the author(s) agree that, if their paper is accepted, they will:
