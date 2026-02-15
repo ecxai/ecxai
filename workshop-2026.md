@@ -39,7 +39,7 @@ Authors can submit short contributions including position papers of up to 4 page
  - Workshop: TBC
  
 ## Submission
-Workshop papers must be submitted using the [GECCO submission system](https://ssl.linklings.net/conferences/gecco/). After login, the authors need to select the "Workshop Paper" submission form. In the form, the authors must select the workshop they are submitting to. To see a sample of the "Workshop Paper" submission form, go to GECCO's submission system and select "Sample Submission Forms". Submitted papers must not exceed 8 pages (excluding references) and are required to be in compliance with the GECCO 2024 Papers Submission [Instructions](https://gecco-2024.sigevo.org/Paper-Submission-Instructions). It is recommended to use the same templates as the papers submitted to the main tracks.  Each paper submitted to this workshop will be rigorously reviewed in a double-blind review process. In other words, authors should not know who the reviewers of their work are and reviewers should not know who the authors are. To this end, the following information is very important: Submitted papers should be ANONYMIZED. This means that they should NOT contain any element that may reveal the identity of their authors. This includes author names, affiliations, and acknowledgments. Moreover, any references to any of the author's own work should be made as if the work belonged to someone else. All accepted papers will be presented at the ECXAI workshop and appear in the GECCO 2024 Conference Companion Proceedings. By submitting a paper, the author(s) agree that, if their paper is accepted, they will:
+Workshop papers must be submitted using the [GECCO submission system](https://ssl.linklings.net/conferences/gecco/). After login, the authors need to select the "Workshop Paper" submission form. In the form, the authors must select the workshop they are submitting to. To see a sample of the "Workshop Paper" submission form, go to GECCO's submission system and select "Sample Submission Forms". Submitted papers must not exceed 8 pages (excluding references) and are required to be in compliance with the GECCO 2026 Papers Submission [Instructions](https://gecco-2026.sigevo.org/Paper-Submission-Instructions). It is recommended to use the same templates as the papers submitted to the main tracks.  Each paper submitted to this workshop will be rigorously reviewed in a double-blind review process. In other words, authors should not know who the reviewers of their work are and reviewers should not know who the authors are. To this end, the following information is very important: Submitted papers should be ANONYMIZED. This means that they should NOT contain any element that may reveal the identity of their authors. This includes author names, affiliations, and acknowledgments. Moreover, any references to any of the author's own work should be made as if the work belonged to someone else. All accepted papers will be presented at the ECXAI workshop and appear in the GECCO 2026 Conference Companion Proceedings. By submitting a paper, the author(s) agree that, if their paper is accepted, they will:
 
  - Submit a final, revised, camera-ready version to the publisher on or before the camera-ready deadline.
  - Register at least one author by the author registration deadline to participate in the conference.
@@ -48,22 +48,7 @@ Workshop papers must be submitted using the [GECCO submission system](https://ss
 As a published ACM author, you and your co-authors are subject to all [ACM Publications Policies](https://www.acm.org/publications/policies/toc), including ACM's new [Publications Policy on Research Involving Human Participants and Subjects](https://www.acm.org/publications/policies/research-involving-human-participants-and-subjects).
 
 ## Technical Programme Committee
-- Mauro Castelli
-- Matthew Craven
-- Leonardo Lucio Custode
-- Alberto Franzin
-- Julie Jacques
-- Ed Keedwell
-- Umair Khan
-- Benjamin Lacroix
-- Eric Medvet
-- Giorgia Nadizar
-- Fabrício Olivetti de França
-- Roman Šenkeřík
-- Ryan Urbanowicz
-- Marco Virgolin
-- Sean Walton
-- Ciprian Zavoianu
+TBC
 
 ## Organisers (in alphabetical order)
 
