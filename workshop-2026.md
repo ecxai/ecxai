@@ -1,4 +1,4 @@
-# Workshop on Evolutionary Computing and Explainable AI 2026
+# Workshop on Evolutionary Computing and Explainable AI @GECCO 2026
 ## Description
 
 The workshop will be held at the GECCO conference in San Jose, Costa Rica. GECCO runs 13-17 July. It will be both on-site and streamed online.
