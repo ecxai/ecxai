@@ -1,7 +1,7 @@
 # Workshop on Evolutionary Computing and Explainable AI @PPSN 2026
 ## Description
 
-The workshop will be held on-site at the (https://ppsn2026.disi.unitn.it)[PPSN conference] in Trento, Italy. PPSN runs 29 August-2 September.
+The workshop will be held on-site at the [PPSN conference](https://ppsn2026.disi.unitn.it) in Trento, Italy. PPSN runs 29 August-2 September.
 
 ## Programme
 TBC
