@@ -1,5 +1,5 @@
 theme: jekyll-theme-cayman
-title: Evolutionary Computing and Explainable Artificial Intelligence
+title: Evolutionary Computing and Explainable Artificial Intelligence (ECXAI)
 description: This page is for presenting information on the intersection of EC and XAI, including workshops, special issues, people, and resources.
 plugins:
   - jekyll-relative-links
