@@ -1,4 +1,4 @@
-# Workshop on Evolutionary Computing and Explainable AI 2024
+# Workshop on Evolutionary Computing and Explainable AI @GECCO 2024
 ## Description
 
 The workshop will be held on 14 July 2024 at the GECCO conference in Melbourne, Australia. GECCO runs 14-18 July.
