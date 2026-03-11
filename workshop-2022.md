@@ -1,4 +1,4 @@
-# Workshop on Evolutionary Computing and Explainable AI 2022
+# Workshop on Evolutionary Computing and Explainable AI @GECCO 2022
 ## Description
 
 The workshop will span two sessions (10:50–12:40, 13:40–15:30) on the first day of the GECCO conference, Saturday, 9 July 2022.
