@@ -3,39 +3,41 @@ docs:
 - pagetitle: About
   url: /ecxai/
 
-- pagetitle: Papers
-  url: /ecxai/papers
+- pagetitle: GECCO Workshop 2022
+  url:  /ecxai/workshop-2022
+
+- pagetitle: GECCO Workshop 2023
+  url:  /ecxai/workshop-2023
+  
+- pagetitle: GECCO Workshop 2024
+  url:  /ecxai/workshop-2024
+  
+- pagetitle: GECCO Workshop 2025
+  url:  /ecxai/workshop-2025
+
+- pagetitle: GECCO Workshop 2026
+  url:  /ecxai/workshop-2026
+
+- pagetitle: PPSN Workshop 2026
+  url:  /ecxai/workshop-ppsn-2026
+
+- pagetitle: TELO Special Issue
+  url:  /ecxai/special-issue
+
+- pagetitle: Links
+  url:  /ecxai/links
+
+#- pagetitle: Papers
+#  url: /ecxai/papers
 
 #- pagetitle: Related works
 #  url: /relatedworks
 
 #- pagetitle: Tutorials
 #  url: /tutorials
-#
-
-- pagetitle: Workshop 2022
-  url:  /ecxai/workshop-2022
-
-- pagetitle: Workshop 2023
-  url:  /ecxai/workshop-2023
-  
-- pagetitle: Workshop 2024
-  url:  /ecxai/workshop-2024
-  
-- pagetitle: Workshop 2025
-  url:  /ecxai/workshop-2025
-
-- pagetitle: Workshop 2026
-  url:  /ecxai/workshop-2026
-
-- pagetitle: TELO Special Issue
-  url:  /ecxai/special-issue
 
 #- pagetitle: Organisers
 #  url:  /ecxai/organisers
 
-- pagetitle: Links
-  url:  /ecxai/links
-
 #- pagetitle: Libraries
-#  url: /libraries  
+#  url: /libraries
