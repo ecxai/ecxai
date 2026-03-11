@@ -1,4 +1,4 @@
-# Workshop on Evolutionary Computing and Explainable AI 2025
+# Workshop on Evolutionary Computing and Explainable AI @GECCO 2025
 ## Description
 
 The workshop will be held over two sessions on 14-15 July 2025 at the GECCO conference in Malaga, Spain. GECCO runs 14-18 July. It will be both on-site and streamed online. This year, the sessions are joint with the Evolutionary Computation and Decision Making workshop: ECDM talks are tagged in the schedule below.
