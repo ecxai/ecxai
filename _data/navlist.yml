@@ -30,14 +30,14 @@ docs:
 #- pagetitle: Papers
 #  url: /ecxai/papers
 
+#- pagetitle: Organisers
+#  url:  /ecxai/organisers
+
 #- pagetitle: Related works
 #  url: /relatedworks
 
 #- pagetitle: Tutorials
 #  url: /tutorials
-
-#- pagetitle: Organisers
-#  url:  /ecxai/organisers
 
 #- pagetitle: Libraries
 #  url: /libraries
