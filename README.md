@@ -1,4 +1,4 @@
-# Website for ECXAI GECCO 2022 Worksop
+# Website for the ECXAI Special Interest Group
 
 Website: https://ecxai.github.io/ecxai/
 
