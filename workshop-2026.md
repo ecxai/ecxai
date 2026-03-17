@@ -32,7 +32,7 @@ Authors can submit short contributions including position papers of up to 4 page
 
 ## Important dates
  - Submission opening: February 2, 2026
- - Submission deadline: March 27, 2026
+ - Submission deadline: ~~March 27, 2026~~ April 3, 2026
  - Notification: April 24, 2026
  - Camera-ready: May 5, 2026
  - Author's mandatory registration: May 11, 2026
