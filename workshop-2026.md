@@ -48,7 +48,17 @@ Workshop papers must be submitted using the [GECCO submission system](https://ss
 As a published ACM author, you and your co-authors are subject to all [ACM Publications Policies](https://www.acm.org/publications/policies/toc), including ACM's new [Publications Policy on Research Involving Human Participants and Subjects](https://www.acm.org/publications/policies/research-involving-human-participants-and-subjects).
 
 ## Technical Programme Committee
-TBC
+- Matthew Craven
+- Leonardo Custode
+- Martin Fyvie
+- Stefano Genetti
+- Julie Jacques
+- Eric Medvet
+- Giorgia Nadizar
+- Erik Nielsen
+- Marco Virgolin
+- Sean Walton
+- Ryan Zhou
 
 ## Organisers (in alphabetical order)
 
