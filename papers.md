@@ -1,6 +1,9 @@
 # Papers
 **A (currently only sorted by date) list of papers relevant to EC and XAI. Please send suggestions for papers relevant to both EC and XAI to alexander dot brownlee at stir dot ac dot uk.**
 
+## 2024
+Evolutionary Computation and Explainable AI: A Roadmap to Transparent Intelligent Systems. Zhou, R.; Bacardit, J.; Brownlee, A.E.I.; Cagnoni, S.; Fyvie, M.; Iacca, G.; McCall, J.A.W.; van Stein, N.; Walker, D.; Hu, T. (2024). IEEE Transactions on Evolutionary Computation, vol 29, issue 5, pp 2213-2228. [https://doi.org/10.1109/TEVC.2024.3476443]
+
 ## 2023
 Evolutionary Approaches to Explainable Machine Learning. Ryan Zhou and Ting Hu. [https://arxiv.org/abs/2306.14786]
 
