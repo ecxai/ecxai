@@ -27,8 +27,8 @@ docs:
 - pagetitle: Links
   url:  /ecxai/links
 
-#- pagetitle: Papers
-#  url: /ecxai/papers
+- pagetitle: Papers
+  url: /ecxai/papers
 
 #- pagetitle: Organisers
 #  url:  /ecxai/organisers
