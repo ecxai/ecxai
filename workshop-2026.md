@@ -7,6 +7,7 @@ The workshop will be held at the GECCO conference in San Jose, Costa Rica. GECCO
 (Times are local to Costa Rica)
 
 **Session 1 (Monday July 13)**
+
 09:00 Introduction from workshop organizers (5 min)
 
 09:05 Can Explainability Metrics Improve Genetic Programming? Lessons from 2048 *Paul, Plump, Berger, Drechsler* (25 min)
@@ -20,6 +21,7 @@ The workshop will be held at the GECCO conference in San Jose, Costa Rica. GECCO
 10:30 Random Symbolic Boosting for Interpretable Image Segmentation *Ortega, Trujillo* (10 min)
 
 **Session 2 (Monday July 13)**
+
 11:10 Parallel Adaptive Multi-Objective Evolutionary Learning of Discretized Bayesian Network Classifiers for Clinical Data *Ha, Schlender, van der Linden, Bosman, Alderliesten* (25 min)
 
 11:35 Keynote: Learning inherently inspectable models for XAI: a call to arms for EC *Peter Bosman* (55 min)
@@ -56,7 +58,7 @@ Authors can submit short contributions including position papers of up to 4 page
  - Notification: April 24, 2026
  - Camera-ready: May 5, 2026
  - Author's mandatory registration: May 11, 2026
- - Workshop: TBC
+ - Workshop: July 13, 2026
  
 ## Submission
 Workshop papers must be submitted using the [GECCO submission system](https://ssl.linklings.net/conferences/gecco/). After login, the authors need to select the "Workshop Paper" submission form. In the form, the authors must select the workshop they are submitting to. To see a sample of the "Workshop Paper" submission form, go to GECCO's submission system and select "Sample Submission Forms". Submitted papers must not exceed 8 pages (excluding references) and are required to be in compliance with the GECCO 2026 Papers Submission [Instructions](https://gecco-2026.sigevo.org/Paper-Submission-Instructions). It is recommended to use the same templates as the papers submitted to the main tracks.  Each paper submitted to this workshop will be rigorously reviewed in a double-blind review process. In other words, authors should not know who the reviewers of their work are and reviewers should not know who the authors are. To this end, the following information is very important: Submitted papers should be ANONYMIZED. This means that they should NOT contain any element that may reveal the identity of their authors. This includes author names, affiliations, and acknowledgments. Moreover, any references to any of the author's own work should be made as if the work belonged to someone else. All accepted papers will be presented at the ECXAI workshop and appear in the GECCO 2026 Conference Companion Proceedings. By submitting a paper, the author(s) agree that, if their paper is accepted, they will:
