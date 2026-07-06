@@ -4,7 +4,27 @@
 The workshop will be held at the GECCO conference in San Jose, Costa Rica. GECCO runs 13-17 July. It will be both on-site and streamed online.
 
 ## Programme
-TBC
+(Times are local to Costa Rica)
+
+**Session 1 (Monday July 13)**
+09:00 Introduction from workshop organizers (5 min)
+
+09:05 Can Explainability Metrics Improve Genetic Programming? Lessons from 2048 *Paul, Plump, Berger, Drechsler* (25 min)
+
+09:30 Explainability-Aware Evaluation of Deep Models for Facial Emotion Recognition *Rocha, Bezerra, de Figueiredo, Ataya, Delgado, Tacla, Julia, Martins* (25 min)
+
+09:55 BiasQD-DT: Creating Interpretable Trade-Offs in Classifier Bias with Quality-Diversity Optimization via Decision Trees *Jaramillo, Charity, Togelius* (25 min)
+
+10:20 When Does Integrated Neuro-Symbolic Learning Help Clinical Tabular Diagnosis? An Evolutionary and Explainable AI Perspective *Verma, Shastri, Salgotra	* (10 min)
+
+10:30 Random Symbolic Boosting for Interpretable Image Segmentation *Ortega, Trujillo* (10 min)
+
+**Session 2 (Monday July 13)**
+11:10 Parallel Adaptive Multi-Objective Evolutionary Learning of Discretized Bayesian Network Classifiers for Clinical Data *Ha, Schlender, van der Linden, Bosman, Alderliesten* (25 min)
+
+11:35 Keynote: Learning inherently inspectable models for XAI: a call to arms for EC *Peter Bosman* (55 min)
+
+12:30 Open discussion (30 min)
 
 
 ## Call for papers
