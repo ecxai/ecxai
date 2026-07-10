@@ -16,7 +16,7 @@ The workshop will be held at the GECCO conference in San Jose, Costa Rica. GECCO
 
 09:55 BiasQD-DT: Creating Interpretable Trade-Offs in Classifier Bias with Quality-Diversity Optimization via Decision Trees *Jaramillo, Charity, Togelius* (25 min)
 
-10:20 When Does Integrated Neuro-Symbolic Learning Help Clinical Tabular Diagnosis? An Evolutionary and Explainable AI Perspective *Verma, Shastri, Salgotra	* (10 min)
+10:20 When Does Integrated Neuro-Symbolic Learning Help Clinical Tabular Diagnosis? An Evolutionary and Explainable AI Perspective *Verma, Shastri, Salgotra* (10 min)
 
 10:30 Random Symbolic Boosting for Interpretable Image Segmentation *Ortega, Trujillo* (10 min)
 
