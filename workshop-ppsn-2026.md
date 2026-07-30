@@ -6,13 +6,13 @@ The workshop will be held on-site 1500-1730 on Saturday 29 August 2026, at the [
 ## Programme
 1500 Introduction
 
-1505 From Explanation to Design: Principled Generators in Program Trace Optimization information on submission. *Alberto Moraglio* [Paper PDF](https://ecxai.github.io/ecxai/ppsn2026/PPSN-ECXAI_2026_paper_1.pdf)
+1505 From Explanation to Design: Principled Generators in Program Trace Optimization. *Alberto Moraglio* [Paper PDF](https://ecxai.github.io/ecxai/ppsn2026/PPSN-ECXAI_2026_paper_1.pdf)
 
-1520 Evolving Explanations: Complexity-Adaptive Refinement of Faithful Explanations for Symbolic Regression information on submission. *Elisabeth Mayrhuber, Ting Hu and Stephan Winkler* [Paper PDF](https://ecxai.github.io/ecxai/ppsn2026/PPSN-ECXAI_2026_paper_2.pdf)
+1520 Evolving Explanations: Complexity-Adaptive Refinement of Faithful Explanations for Symbolic Regression. *Elisabeth Mayrhuber, Ting Hu and Stephan Winkler* [Paper PDF](https://ecxai.github.io/ecxai/ppsn2026/PPSN-ECXAI_2026_paper_2.pdf)
 
 (coffee break)
 
-1600 Human-in-the-Loop Interpretable Reinforcement Learning via Evolutionary Decision Trees information on submission. *Hao Jie Zhan, Stefano Genetti and Giovanni Iacca.* [Paper PDF](https://ecxai.github.io/ecxai/ppsn2026/PPSN-ECXAI_2026_paper_3.pdf)
+1600 Human-in-the-Loop Interpretable Reinforcement Learning via Evolutionary Decision Trees. *Hao Jie Zhan, Stefano Genetti and Giovanni Iacca.* [Paper PDF](https://ecxai.github.io/ecxai/ppsn2026/PPSN-ECXAI_2026_paper_3.pdf)
 
 1615 Evolving Survival Models with PISA: a Pipeline for Interpretable Survival Analysis. *Thalea Schlender*
 
@@ -55,20 +55,20 @@ Both types of contribution must follow the PPSN paper formatting guidelines (LNC
  - Workshop: August 29, 2026
  
 ## Submission
-Workshop papers must be submitted using [EasyChair](https://easychair.org/conferences/?conf=ppsnecxai2026). It is recommended to use the same templates as the papers submitted to the main PPSN conference. Each paper submitted to this workshop will be rigorously reviewed in a double-blind review process. In other words, authors should not know who the reviewers of their work are and reviewers should not know who the authors are. To this end, the following information is very important: Submitted papers should be ANONYMIZED. This means that they should NOT contain any element that may reveal the identity of their authors. This includes author names, affiliations, and acknowledgments. Moreover, any references to any of the author's own work should be made as if the work belonged to someone else. All accepted papers will be presented at the ECXAI workshop and appear on the EXCAI website. By submitting a paper, the author(s) agree that, if their paper is accepted, they will:
+Workshop papers must be submitted using [EasyChair](https://easychair.org/conferences/?conf=ppsnecxai2026). It is recommended to use the same templates as the papers submitted to the main PPSN conference. Each paper submitted to this workshop will be rigorously reviewed in a double-blind review process. In other words, authors should not know who the reviewers of their work are and reviewers should not know who the authors are. To this end, the following information is very important: Submitted papers should be ANONYMIZED. This means that they should NOT contain any element that may reveal the identity of their authors. This includes author names, affiliations, and acknowledgments. Moreover, any references to any of the author's own work should be made as if the work belonged to someone else. All accepted papers will be presented at the ECXAI workshop and appear on the ECXAI website. By submitting a paper, the author(s) agree that, if their paper is accepted, they will:
 
  - Submit a final, revised, camera-ready version to the workshop organisers on or before the camera-ready deadline.
  - Register at least one author by the author registration deadline to participate in the conference.
 
 ## Technical Programme Committee
-Jaume	Bacardit
-Alexander	Brownlee
-Stefano	Cagnoni
-Martin	Fyvie
-Stefano	Genetti
-Renan Beran	Kilic
-Giovanni	Iacca
-David	Walker
+- Jaume	Bacardit
+- Alexander	Brownlee
+- Stefano	Cagnoni
+- Martin	Fyvie
+- Stefano	Genetti
+- Giovanni	Iacca
+- Renan Beran	Kilic
+- David	Walker
 
 ## Organisers (in alphabetical order)
 
@@ -96,7 +96,7 @@ Martin Fyvie is a Research Fellow in Artificial Intelligence at Robert Gordon Un
 ### Giovanni Iacca
 <giovanni.iacca@unitn.it>
 
-Giovanni Iacca is an Associate Professor of Information Engineering at the Department of Information Engineering and Computer Science of the University of Trento, Italy, where he founded the Distributed Intelligence and Optimization Lab (DIOL). Previously, he worked as a postdoctoral researcher in Germany (RWTH Aachen, 2017-2018), Switzerland (University of Lausanne and EPFL, 2013-2016), and the Netherlands (INCAS3, 2012-2016), as well as in industry in the areas of software engineering and industrial automation. He is co-PI of the PATHFINDER-CHALLENGE project "SUSTAIN" (2022-2026). Previously, he was co-PI of the FET-Open project "PHOENIX" (2015-2019). He has received three best paper awards (D’IoT IEEE VTC-Spring 2025, EvoApps 2017, and UKCI 2012). His research focuses on computational intelligence, distributed systems, explainable AI, and analysis of biomedical data. In these fields, he co-authored more than 210 peer-reviewed publications. He is actively involved in organizing tracks and workshops at some of the top conferences on computational intelligence, and he regularly serves as a reviewer for several journals and conference committees. He is the General Chair of PPSN 2026. He is an Associate Editor for IEEE Transactions on Evolutionary Computation, Applied Soft Computing, Memetic Computing, Evolutionary Intelligence, Applied Intelligence, and Frontiers in Robotics and AI.
+Giovanni Iacca is an Associate Professor of Information Engineering at the Department of Information Engineering and Computer Science of the University of Trento, Italy, where he founded the Distributed Intelligence and Optimization Lab (DIOL). Previously, he worked as a postdoctoral researcher in Germany (RWTH Aachen, 2017-2018), Switzerland (University of Lausanne and EPFL, 2013-2016), and the Netherlands (INCAS3, 2012-2016), as well as in industry in the areas of software engineering and industrial automation. He has been co-PI of the Pathfinder-Challenge project "SUSTAIN" (2022-2026) and the FET-Open project "PHOENIX" (2015-2019). He has received three best paper awards (D’IoT IEEE VTC-Spring 2025, EvoApps 2017, and UKCI 2012). His research focuses on computational intelligence, distributed systems, explainable AI, and analysis of biomedical data. In these fields, he co-authored more than 230 peer-reviewed publications. He is actively involved in organizing tracks and workshops at some of the top conferences on computational intelligence, and he regularly serves as a reviewer for several journals and conference committees. He is the General Chair of PPSN 2026. He is an Associate Editor for IEEE Transactions on Evolutionary Computation, Applied Soft Computing, Engineering Applications of Artificial Intelligence, Memetic Computing, Evolutionary Intelligence, Frontiers in Robotics and AI, and Nature Communications AI & Computing.
 
 ### David Walker
 <D.J.Walker2@exeter.ac.uk>
