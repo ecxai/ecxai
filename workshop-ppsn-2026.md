@@ -6,13 +6,13 @@ The workshop will be held on-site 1500-1730 on Saturday 29 August 2026, at the [
 ## Programme
 1500 Introduction
 
-1505 From Explanation to Design: Principled Generators in Program Trace Optimization information on submission. *Alberto Moraglio* [Paper PDF](PPSN-ECXAI_2026_paper_1.pdf)
+1505 From Explanation to Design: Principled Generators in Program Trace Optimization information on submission. *Alberto Moraglio* [Paper PDF](https://ecxai.github.io/ecxai/ppsn2026/PPSN-ECXAI_2026_paper_1.pdf)
 
-1520 Evolving Explanations: Complexity-Adaptive Refinement of Faithful Explanations for Symbolic Regression information on submission. *Elisabeth Mayrhuber, Ting Hu and Stephan Winkler* [Paper PDF](PPSN-ECXAI_2026_paper_2.pdf)
+1520 Evolving Explanations: Complexity-Adaptive Refinement of Faithful Explanations for Symbolic Regression information on submission. *Elisabeth Mayrhuber, Ting Hu and Stephan Winkler* [Paper PDF](https://ecxai.github.io/ecxai/ppsn2026/PPSN-ECXAI_2026_paper_2.pdf)
 
 (coffee break)
 
-1600 Human-in-the-Loop Interpretable Reinforcement Learning via Evolutionary Decision Trees information on submission. *Hao Jie Zhan, Stefano Genetti and Giovanni Iacca.* [Paper PDF](PPSN-ECXAI_2026_paper_3.pdf)
+1600 Human-in-the-Loop Interpretable Reinforcement Learning via Evolutionary Decision Trees information on submission. *Hao Jie Zhan, Stefano Genetti and Giovanni Iacca.* [Paper PDF](https://ecxai.github.io/ecxai/ppsn2026/PPSN-ECXAI_2026_paper_3.pdf)
 
 1615 Evolving Survival Models with PISA: a Pipeline for Interpretable Survival Analysis. *Thalea Schlender*
 
