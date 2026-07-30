@@ -1,10 +1,24 @@
 # Workshop on Evolutionary Computing and Explainable AI @PPSN 2026
 ## Description
 
-The workshop will be held on-site at the [PPSN conference](https://ppsn2026.disi.unitn.it) in Trento, Italy. PPSN runs 29 August-2 September.
+The workshop will be held on-site 1500-1730 on Saturday 29 August 2026, at the [PPSN conference](https://ppsn2026.disi.unitn.it) in Trento, Italy. PPSN runs 29 August-2 September.
 
 ## Programme
-TBC
+1500 Introduction
+
+1505 From Explanation to Design: Principled Generators in Program Trace Optimization information on submission. *Alberto Moraglio*
+
+1520 Evolving Explanations: Complexity-Adaptive Refinement of Faithful Explanations for Symbolic Regression information on submission. *Elisabeth Mayrhuber, Ting Hu and Stephan Winkler*
+
+(coffee break)
+
+1600 Human-in-the-Loop Interpretable Reinforcement Learning via Evolutionary Decision Trees information on submission. *Hao Jie Zhan, Stefano Genetti and Giovanni Iacca.*
+
+1615 Evolving Survival Models with PISA: a Pipeline for Interpretable Survival Analysis. *Thalea Schlender*
+
+1645 Using cognitive psychology-inspired methods to test neural networks *Katarzyna Filus*
+
+1715 Wrap-up discussion
 
 
 ## Call for papers
@@ -38,7 +52,7 @@ Both types of contribution must follow the PPSN paper formatting guidelines (LNC
  - Notification: June 30, 2026
  - Camera-ready: July 31, 2026
  - Author's mandatory registration: July 31, 2026
- - Workshop: TBC
+ - Workshop: August 29, 2026
  
 ## Submission
 Workshop papers must be submitted using [EasyChair](https://easychair.org/conferences/?conf=ppsnecxai2026). It is recommended to use the same templates as the papers submitted to the main PPSN conference. Each paper submitted to this workshop will be rigorously reviewed in a double-blind review process. In other words, authors should not know who the reviewers of their work are and reviewers should not know who the authors are. To this end, the following information is very important: Submitted papers should be ANONYMIZED. This means that they should NOT contain any element that may reveal the identity of their authors. This includes author names, affiliations, and acknowledgments. Moreover, any references to any of the author's own work should be made as if the work belonged to someone else. All accepted papers will be presented at the ECXAI workshop and appear on the EXCAI website. By submitting a paper, the author(s) agree that, if their paper is accepted, they will:
@@ -47,7 +61,14 @@ Workshop papers must be submitted using [EasyChair](https://easychair.org/confer
  - Register at least one author by the author registration deadline to participate in the conference.
 
 ## Technical Programme Committee
-TBC
+Jaume	Bacardit
+Alexander	Brownlee
+Stefano	Cagnoni
+Martin	Fyvie
+Stefano	Genetti
+Renan Beran	Kilic
+Giovanni	Iacca
+David	Walker
 
 ## Organisers (in alphabetical order)
 
